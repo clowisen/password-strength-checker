@@ -1,9 +1,9 @@
 # password-strength-checker
 
-Languages
-
-
+Tools
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,bootstrap,jquery,javascript" />
   </a>
+
+  
 
