@@ -6,6 +6,7 @@
     <img src="https://skillicons.dev/icons?i=html,bootstrap,jquery,javascript" />
   </a>
 
+
 <img src="./password-strength-checker.gif"/>
 
   
