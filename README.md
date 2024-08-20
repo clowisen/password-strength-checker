@@ -6,8 +6,7 @@
     <img src="https://skillicons.dev/icons?i=html,bootstrap,jquery,javascript" />
   </a>
 
-![]('password-strength-checker.gif')
-
+https://github.com/clowisen/password-strength-checker/blob/main/password-strength-checker.gif
 
   
 
