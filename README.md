@@ -7,6 +7,10 @@
   </a>
 
 
+
+
+
+
 <img src="./password-strength-checker.gif"/>
 
   
